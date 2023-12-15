@@ -39,6 +39,7 @@
                 </tr>
             @endforelse
         </table>
+        <a class="btn btn-success mb-3 float-end" href="{{ url('/pegawai/create') }}">Tambah</a>
     </div>
 </body>
 </html>
